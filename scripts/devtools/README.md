@@ -26,5 +26,4 @@ To publish a release to NPM, run the `publish-release` script:
 ```sh
 ./publish-release.js
 ```
-
 You'll need to follow the instructions at the end of the script to upload the extension to Chrome, Edge, and Firefox stores.
